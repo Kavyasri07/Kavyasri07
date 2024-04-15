@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Iot related Projects<br>🌱 I’m currently learning Programming<br>💬 Ask me about Arduino and electronics<br>
+🔭 I’m currently working on Iot related Projects<br>🌱 I’m currently learning Programming<br>💬 Ask me about Electronics<br>
 
 [![](https://visitcount.itsvg.in/api?id=Kavyasripalanisamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
